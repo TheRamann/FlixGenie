@@ -24,7 +24,7 @@ npx flixgenie
 To get started, just run the following command:
 
 ```powershell
-PS D:\Ramann\ProgrammingAndStuff\FlixGenie> flixgenie
+PS npx flixgenie
 ```
 
 Output will look like this:
